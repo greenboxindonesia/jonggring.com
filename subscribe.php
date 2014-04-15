@@ -3,7 +3,7 @@
 	$subject = "Subscription to jonggring.com";
 	$text = $_POST['text'];
 	
- $to = "jonggring.garment@gmail.com";
+ $to = "jonggringgarment@gmail.com";
  $message =" You received  a subscription mail from ".$mail ."\r\n\r\n";
  $message .=" This email address is now subscribed to jonggring.com  : ".$mail;
 
